@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/sample.distr.iml" filepath="$PROJECT_DIR$/.idea/modules/sample.distr.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/sample.distr_main.iml" filepath="$PROJECT_DIR$/.idea/modules/sample.distr_main.iml" group="sample.distr" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/sample.distr_test.iml" filepath="$PROJECT_DIR$/.idea/modules/sample.distr_test.iml" group="sample.distr" />
+    </modules>
+  </component>
+</project>
